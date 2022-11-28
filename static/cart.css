@@ -1,0 +1,138 @@
+.card .title{
+    margin-bottom: 5vh;
+}
+.card{
+    margin: auto;
+    max-width: 950px;
+    width: 90%;
+    border-radius: 1rem;
+    border: transparent;
+}
+@media(max-width:767px){
+    .card{
+        margin: 3vh auto;
+    }
+}
+.cart{ 
+    background-color: #fff;
+    padding: 4vh 5vh;
+    border-bottom-left-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+@media(max-width:767px){
+    .cart{
+        padding: 4vh;
+        border-bottom-left-radius: unset;
+        border-top-right-radius: 1rem;
+    }
+}
+.card .summary{
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    padding: 4vh;
+    color: rgb(65, 65, 65);
+}
+@media(max-width:767px){
+    .card .summary{
+    border-top-right-radius: unset;
+    border-bottom-left-radius: 1rem;
+    }
+}
+.card .summary .col-2{
+    padding: 0;
+}
+.card .summary .col-10
+{
+    padding: 0;
+}
+.card .row{
+    margin: 0;
+}
+.card .title b{
+    font-size: 1.5rem;
+}
+.card .main{
+    margin: 0;
+    padding: 2vh 0;
+    width: 100%;
+}
+.card .col-2, .col{
+    padding: 0 1vh;
+}
+.card a{
+    padding: 0 1vh;
+}
+.card .close{
+    margin-left: auto;
+    font-size: 0.7rem;
+}
+.card img{
+    width: 3.5rem;
+}
+.card .back-to-shop{
+    margin-top: 4.5rem;
+}
+.card h5{
+    margin-top: 4vh;
+}
+.card hr{
+    margin-top: 1.25rem;
+}
+.card form{
+    padding: 2vh 0;
+}
+.card select{
+    border: 1px solid rgba(0, 0, 0, 0.137);
+    padding: 1.5vh 1vh;
+    margin-bottom: 4vh;
+    outline: none;
+    width: 100%;
+    background-color: rgb(247, 247, 247);
+}
+.card input{
+    border: 1px solid rgba(0, 0, 0, 0.137);
+    padding: 1vh;
+    margin-bottom: 4vh;
+    outline: none;
+    width: 100%;
+    background-color: rgb(247, 247, 247);
+}
+.card input:focus::-webkit-input-placeholder
+{
+      color:transparent;
+}
+.card .btn{
+    background-color: #000;
+    border-color: #000;
+    color: white;
+    width: 100%;
+    font-size: 0.7rem;
+    margin-top: 4vh;
+    padding: 1vh;
+    border-radius: 0;
+}
+.card .btn:focus{
+    box-shadow: none;
+    outline: none;
+    box-shadow: none;
+    color: white;
+    -webkit-box-shadow: none;
+    -webkit-user-select: none;
+    transition: none; 
+}
+.card .btn:hover{
+    background-color: rgb(153, 204, 153);
+}
+.card a{
+    color: black; 
+}
+.card a:hover{
+    color: black;
+    text-decoration: none;
+}
+.card #code{
+    background-image: linear-gradient(to left, rgba(255, 255, 255, 0.253) , rgba(255, 255, 255, 0.185)), url("https://img.icons8.com/small/16/000000/long-arrow-right.png");
+    background-repeat: no-repeat;
+    background-position-x: 95%;
+    background-position-y: center;
+}

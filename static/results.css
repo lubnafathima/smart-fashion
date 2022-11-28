@@ -1,0 +1,35 @@
+.search {
+    padding: 10em 20em;
+    min-height: 90vh;
+}
+main h2 {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: 2em;
+}
+.search-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #000;
+    padding: .5em 1em;
+}
+.search-result {
+    display: flex;
+    flex-direction: row;
+}
+.res-left {
+    margin-right: 3em;
+}
+.h4-search {
+    font-size: 1em;
+    font-weight: 400;
+}
+.search-hr {
+    width: 100%;
+    height: .1em;
+    background-color: #eee;
+    margin: 1em 0;
+}
