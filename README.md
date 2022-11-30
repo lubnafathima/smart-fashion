@@ -4,8 +4,30 @@
 * [Quick Overview](#quick-overview)  
 * [Technologies](#technologies)  
 * [Demo](#demo)  
+  * [Link](#demo-link)  
+  * [Video](#demo-video)  
 * [Features](#features)  
 * [Site](#site)  
+  * [Home Page](#homepage)  
+  * [Sign Up](#sign-up)  
+  * [Log In](#log-in)  
+  * [Collection](#collection)  
+    * [Women](#women)
+    * [Men](#men)
+    * [Accessories](#accessories)
+  * [Lookbook](#lookbook)
+  * [Customer Care](#customer-care)
+  * [Search](#search)
+  * [Cart](#cart)
+  * [User Profile](#user-profile)
+  * [Admin](#admin)
+
+
+
+
+
+
+
 
 ## Quick Overview  
 Smart Fashion is a shopping application containing different brands and fashionable clothes for everyone. This application allows user to surf latest clothings, customize their collection, view similar products and many more!  
@@ -19,8 +41,6 @@ Smart Fashion is a shopping application containing different brands and fashiona
 #### Backend & Database  
 * PHP  
 * MySQL  
-## Demo
-Here is a working live demo: [View](https://smartfashionapplication.000webhostapp.com/template/home.php)  
 
 ## Features  
 #### User  
@@ -34,6 +54,13 @@ Here is a working live demo: [View](https://smartfashionapplication.000webhostap
 #### Admin  
 * View all Users and their orders  
 * Alter the datas and monitor the website  
+
+## Demo  
+#### Demo Link  
+Here is a working live demo: [View](https://smartfashionapplication.000webhostapp.com/template/home.php)  
+
+### Demo Video  
+https://user-images.githubusercontent.com/69050759/204759470-f977c59a-aa01-4b79-97e8-404bc3ac4a15.mp4
 
 ## Site  
 #### Homepage  
